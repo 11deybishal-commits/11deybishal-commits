@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishal Dey</h1>
-<h3 align="center">Full Stack Developer | Ml & GenAI | Agentic AI & RAG </h3>
+<h3 align="center">Full Stack Developer | ML & GenAI | Agentic AI & RAG </h3>
 
 ---
 
