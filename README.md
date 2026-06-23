@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bishal Dey</h1>
-<h3 align="center">Full Stack Developer | ECE Student | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Ml & GenAI | Agentic AI & RAG </h3>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 B.Tech Student at **IIIT Nagpur**
-- 💻 Interested in **Full Stack Development & System Design**
-- 🌱 Currently learning **Advanced MERN + DSA**
+- 💻 Interested in **Full Stack Development, Ml, RAG's & System Design**
+- 🌱 Currently learning **Advanced MERN, GenAI, ML**
 - ⚡ Building real world projects like **MedAccess**
 
 ---
@@ -39,6 +39,14 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=spacy&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
