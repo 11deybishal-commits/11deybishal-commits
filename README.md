@@ -88,7 +88,7 @@ DevOps & Tools
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-```
+
 ## 📊 GitHub Stats
 
 ![Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=11deybishal-commits&show_icons=true&theme=tokyonight)
