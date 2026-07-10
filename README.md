@@ -73,9 +73,9 @@ Building intelligent applications using AI, LLMs and modern web technologies.
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=11deybishal-commits&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11deybishal-commits&layout=compact&theme=tokyonight&hide_border=true"/>
+[<img height="165" src="https://github-readme-stats.vercel.app/api?username=11deybishal-commits&show_icons=true&theme=tokyonight&hide_border=true"/>
+](https://github-readme-stats.vercel.app/api?username=11deybishal-commits)
+[<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11deybishal-commits&layout=compact&theme=tokyonight&hide_border=true"/>](https://github-readme-stats-sigma-five.vercel.app/api?username=11deybishal-commits&show_icons=true&theme=tokyonight&hide_border=true)
 
 </p>
 
