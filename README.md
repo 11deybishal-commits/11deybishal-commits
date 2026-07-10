@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Bishal Dey</h1>
 
 <h3 align="center">
@@ -109,20 +109,16 @@ Building intelligent applications using AI, LLMs and modern web technologies.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/bishal-dey11">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/11deybishal-commits">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:11deybishal@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge"/>
 </a>
 
 </p>
