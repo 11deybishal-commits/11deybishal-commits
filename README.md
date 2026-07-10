@@ -73,9 +73,9 @@ Building intelligent applications using AI, LLMs and modern web technologies.
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=11deybishal-commits&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11deybishal-commits&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -84,7 +84,7 @@ Building intelligent applications using AI, LLMs and modern web technologies.
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=11deybishal-commits&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@ Building intelligent applications using AI, LLMs and modern web technologies.
 ## 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=11deybishal-commits&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@ Building intelligent applications using AI, LLMs and modern web technologies.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=11deybishal-commits&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
 </p>
 
 ---
