@@ -153,12 +153,8 @@ Building intelligent applications using AI, LLMs and modern web technologies.
 </a>
 
 </p>
-
----
-
 <p align="center">
 
 > *"Code. Learn. Build. Repeat."* 🚀
 
 </p>
-```
