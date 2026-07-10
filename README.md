@@ -27,7 +27,6 @@ Building intelligent applications using AI, LLMs and modern web technologies.
     />
   </picture>
 </p>
----
 
 ## 🚀 About Me
 
