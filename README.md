@@ -1,64 +1,137 @@
-🚧 Ultimate GitHub README (Foundation)
-> **Important:** Your original README contains hundreds of badge lines. A single ChatGPT response cannot safely include a 1000–1500 line README without truncation.
->
-> This file is the complete foundation/layout. **Paste your existing badge sections (Frameworks, GenAI, Vector DBs, Data Science, Backend & DB, DevOps & Tools) into the marked area without changing them.**
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=240&section=header&text=Bishal%20Dey&fontSize=54&fontColor=ffffff&animation=fadeIn" width="100%"/>
+```md
 <h1 align="center">Hi 👋, I'm Bishal Dey</h1>
-<h3 align="center">Full Stack Developer • Machine Learning • Generative AI • Agentic AI • RAG</h3>
+
+<h3 align="center">
+AI/ML Engineer • MERN Stack Developer • GenAI & RAG Enthusiast
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Machine+Learning+Engineer;Generative+AI+Developer;Building+Real+World+AI+Projects;RAG+%7C+LangChain+%7C+Vector+Databases;Always+Learning+Something+New"/>
+Building intelligent applications using AI, LLMs and modern web technologies.
 </p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech ECE @ IIIT Nagpur
+- 🤖 Exploring **Generative AI, RAG, Agentic AI & LLM Applications**
+- 🌐 Full Stack Developer using the **MERN Stack**
+- 💻 Competitive Programmer with **200+ LeetCode** problems solved
+- 🎯 Interested in AI Systems, Backend Engineering & Intelligent Products
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,java" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_DB-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge"/>
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,tailwind,html,css,vite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
+
+---
+
+## 🌟 Featured Interests
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Retrieval-Augmented Generation (RAG)
+- ⚡ Agentic AI
+- 📊 Machine Learning
+- 🔍 Prompt Engineering
+- ☁️ Full Stack Development
+- 🚀 Backend Systems
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=11deybishal-commits&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/11deybishal-commits?style=for-the-badge"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
 ---
-🚀 About Me
-🎓 B.Tech Student @ IIIT Nagpur
-💻 Full Stack Development
-🤖 Machine Learning & Generative AI
-🔍 RAG, Agentic AI & System Design
-🌱 Learning Advanced MERN, ML & LLM Engineering
-🚀 Building real-world AI applications
----
-🛠 Skills
+
+## 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,react,js,html,css,tailwind,nodejs,express,mongodb,mysql,postgres,fastapi,git,github,vscode,tensorflow,pytorch,aws,gcp,azure&perline=10"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
-📦 Existing Badge Sections
-Paste your original badge sections here:
-Languages
-Frontend
-Frameworks
-GenAI
-Vector Databases
-Data Science
-Backend & DB
-DevOps & Tools
+
 ---
-🚀 Featured Projects
-Project	Stack
-MedAccess	MERN + Maps
-Telecom RAG	LangChain + FAISS
-AI Interview Bot	LLM + RAG
-Hostel Management	MERN
----
-📊 GitHub Stats
+
+## 📊 Contribution Graph
+
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=11deybishal-commits&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=11deybishal-commits&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
-<p align="center">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11deybishal-commits&layout=compact&theme=tokyonight"/>
-</p>
+
 ---
-📈 Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=11deybishal-commits&theme=tokyo-night)
-🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=11deybishal-commits&theme=algolia&row=2&column=4)
-💡 Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-🌐 Connect
-LinkedIn: https://www.linkedin.com/in/bishal-dey11/
-GitHub: https://github.com/11deybishal-commits
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"/>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Code. Learn. Build. Repeat."* 🚀
+
+</p>
+```
