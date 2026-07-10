@@ -58,6 +58,21 @@ Building intelligent applications using AI, LLMs and modern web technologies.
 <img src="https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vector_DB-121212?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-6E40C9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoGen-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge"/>
 </p>
 
 ### Web Development
