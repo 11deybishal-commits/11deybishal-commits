@@ -9,6 +9,24 @@ AI/ML Engineer • MERN Stack Developer • GenAI & RAG Enthusiast
 Building intelligent applications using AI, LLMs and modern web technologies.
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/11deybishal-commits/11deybishal-commits/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/11deybishal-commits/11deybishal-commits/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/11deybishal-commits/11deybishal-commits/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 ---
 
 ## 🚀 About Me
