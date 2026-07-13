@@ -128,11 +128,12 @@ Building intelligent applications using AI, LLMs and modern web technologies.
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
+## 👀 Profile Views
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=11deybishal-commits&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
+
+<img src="https://komarev.com/ghpvc/?username=Subhu0110&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
 ---
 
