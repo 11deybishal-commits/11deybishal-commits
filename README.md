@@ -33,7 +33,7 @@ Building intelligent applications using AI, LLMs and modern web technologies.
 - 🎓 B.Tech ECE @ IIIT Nagpur
 - 🤖 Exploring **Generative AI, RAG, Agentic AI & LLM Applications**
 - 🌐 Full Stack Developer using the **MERN Stack**
-- 💻 Competitive Programmer with **200+ LeetCode** problems solved
+- 💻 Competitive Programmer with **300+ LeetCode** problems solved
 - 🎯 Interested in AI Systems, Backend Engineering & Intelligent Products
 
 ---
